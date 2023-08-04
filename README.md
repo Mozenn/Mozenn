@@ -1,22 +1,7 @@
-### Hey! 👋
+25 years old software engineer at Lyra Network and indie game
+developer living in Toulouse, France.
+Passionate about creation, innovation, and problem-solving.
 
-I am Gauthier, a 25 years old software engineer at Lyra Network and indie game developer living in Toulouse, France.
-I love creating things, from games to software to world bulding and much more.
+I worked primarily on web backend technologies like the Java ecosystem, DevOps technologies, and practices such as CI/CD or automation, and Cloud Native Applications. I am currently shifting to game development, with a focus on engine and graphics programming. 
 
-I have tinkered with many technologies and can be defined as a jack of all trades. I worked primarily on web backend technologies like the Java ecosystem, DevOps technologies and practices such as CI/CD or automation, and Cloud Native Applications, but I am currently shifting from web development to game development, with a focus on engine and graphics programming. 
-
-I am also working on a game since more than four years as a solo developer at https://github.com/WildMooseGames. 
-<!--
-**Mozenn/Mozenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also working on a game at https://github.com/WildMooseGames. 
