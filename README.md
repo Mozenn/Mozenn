@@ -1,5 +1,4 @@
-25 years old software engineer at Lyra Network and indie game
-developer living in Toulouse, France.
+25 years old software engineer at Lyra Network living in Toulouse, France.
 Lifelong learner passionate about creation and problem-solving.
 
 I worked primarily web backend technologies like the Java ecosystem, DevOps technologies, and practices such as CI/CD or automation, and Cloud Native Applications. 
